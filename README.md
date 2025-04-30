@@ -1,2 +1,2 @@
 ﻿# Sql_learning
-trial changes
+For SQL projects
